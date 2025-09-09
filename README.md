@@ -109,10 +109,10 @@ CHAT_ID="TELEGRAM_CHAT_ID"      # → "123456789"
 
 The payloads come from the following GitHub Repositories:
 
-1. **[beigeworm/BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)** - 93 Payloads
-2. **[FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb)** - 109 Payloads  
-3. **[hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads)** - 70 Payloads
-4. **BadUSB Library** - 102 additional Payloads
+1. **[beigeworm/BadUSB-Files-For-FlipperZero](https://github.com/beigeworm/BadUSB-Files-For-FlipperZero)**
+2. **[FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb)** 
+3. **[hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads)**
+4. **BadUSB Library** 
 
 ## **License**
 
