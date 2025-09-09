@@ -9,7 +9,7 @@ The **BadUSB Library** is a comprehensive collection of 374 BadUSB payloads orga
 
 ## **Key Features**
 
-- **374 BadUSB Payloads** from 3 major GitHub Repositories
+- **374 BadUSB Payloads** from 3 major GitHub Repositories and self created
 - **Multi-OS Support** - Windows, Linux, macOS, Android, iOS
 - **Two Readiness Levels** - Directly Ready & Configuration Needed
 - **MITRE ATT&CK Framework** - use case organized
