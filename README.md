@@ -136,4 +136,4 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-*Last updated: $(date)*
+*Last updated: 12.9.2025*
