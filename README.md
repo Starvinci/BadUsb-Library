@@ -1,4 +1,4 @@
-# **BadUSB Library - Comprehensive Payload Collection**
+## **BadUSB Library - Comprehensive Payload Collection**
 
 > **⚠️ DISCLAIMER: EDUCATIONAL PURPOSES ONLY**  
 > This BadUSB payload library is created solely for educational and research purposes.
@@ -113,10 +113,6 @@ The payloads come from the following GitHub Repositories:
 2. **[FalsePhilosopher/badusb](https://github.com/FalsePhilosopher/badusb)** 
 3. **[hak5/usbrubberducky-payloads](https://github.com/hak5/usbrubberducky-payloads)**
 4. **BadUSB Library** 
-
-## **License**
-
-See [License.md](License.md) for details.
 
 ## **Contributing**
 
